@@ -8,7 +8,8 @@ The product range includes up to 21,700 items and can vary depending on the size
 In addition to drugstore goods with a focus on skin, hair, body, baby and health.
 Rossmann also offers promotional items ("World of Ideas"), pet food, a photo service and a wide range of natural foods and wines.
 
-![220px-Dirk_Rossmann_GmbH](https://user-images.githubusercontent.com/75918191/205395017-381d2c58-e6cc-48f2-8621-ee96ff0f88ec.jpg)
+
+![220px-Dirk_Rossmann_GmbH](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dirk_Rossmann_GmbH.jpg/800px-Dirk_Rossmann_GmbH.jpg)
 
 Data provided by Rossmann gives various information about 3,000 drug stores in 7 European countries. Currently, Rossmann store managers were tasked with predicting their daily sales up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
 We are provided with historical sales data for 1,115 Rossmann stores. Our task is to forecast the "Sales" column for the test set with the help of given datasets.
